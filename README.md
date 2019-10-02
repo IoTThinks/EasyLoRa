@@ -3,6 +3,11 @@ This repository is to store the overview of Easy LoRa and relevant LoRa informat
 * This project is sponsored by http://iotthinks.com/.
 * Facebook comunity in Vietnamese: https://www.facebook.com/groups/iotthinks/
 
+## License
+* FREE for personal use.
+* For commercial use, please contact us at http://iotthinks.com
+* We reserve all the rights.
+
 ## The main WiKi
 This is the main wiki https://github.com/IoTThinks/EasyLoRa/wiki
 
