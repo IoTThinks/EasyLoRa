@@ -9,7 +9,7 @@ Easy LoRa Gateway is an OPEN SOURCE, **LONG RANGE** and easy-to-use LoRa Gateway
 * For commercial use, please contact us at http://iotthinks.com
 * We reserve all the rights.
 
-### System architecture
+### Subprojects
 We use a standard architecture and make thing as simple as possible. 
 * Easy LoRa Portal provides node management, rule engine and APIs to link all components.
 Project link is at https://github.com/IoTThinks/EasyLoRaPortal
