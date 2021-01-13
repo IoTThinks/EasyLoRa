@@ -17,6 +17,7 @@ Project link is at https://github.com/IoTThinks/EasyLoRaPortal
 Project link is at https://github.com/IoTThinks/EasyLoRaGateway_v2.1
 * Easy LoRa Industrial Node connects to RS485 sensors and sends messages to Easy LoRa gateway. 
 Project link is at https://github.com/IoTThinks/EasyLoRaNode_Industrial
+* Easy LoRa Low Power: STM32L0 + LoRa https://github.com/IoTThinks/EasyLoRaNode_LowPower
 * Easy LoRa App provides mobile app for easy viewing and accessing the system.
 * Supported projects: https://github.com/IoTThinks/Misc
 
