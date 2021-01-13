@@ -11,12 +11,10 @@ Easy LoRa Gateway is an OPEN SOURCE, **LONG RANGE** and easy-to-use LoRa Gateway
 
 ### Subprojects
 We use a standard architecture and make thing as simple as possible. 
-* Easy LoRa Portal provides node management, rule engine and APIs to link all components.
-Project link is at https://github.com/IoTThinks/EasyLoRaPortal
+* Easy LoRa Portal provides node management, rule engine and APIs to link all components. https://github.com/IoTThinks/EasyLoRaPortal
 * Easy LoRa Gateway acts as a forwarder to send and receive message between nodes and Easy LoRa Portal.
 Project link is at https://github.com/IoTThinks/EasyLoRaGateway_v2.1
-* Easy LoRa Industrial Node connects to RS485 sensors and sends messages to Easy LoRa gateway. 
-Project link is at https://github.com/IoTThinks/EasyLoRaNode_Industrial
+* Easy LoRa Industrial Node connects to RS485 sensors and sends messages to Easy LoRa gateway. https://github.com/IoTThinks/EasyLoRaNode_Industrial
 * Easy LoRa Low Power: STM32L0 + LoRa https://github.com/IoTThinks/EasyLoRaNode_LowPower
 * Easy LoRa App provides mobile app for easy viewing and accessing the system.
 * Supported projects: https://github.com/IoTThinks/Misc
